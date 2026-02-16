@@ -1,0 +1,25 @@
+{
+  "name": "employee-payroll-system",
+  "version": "1.0.0",
+  "description": "The **Employee Payroll System (EPS)** is a server-side web application built using **Node.js**, **Express.js**, and **EJS**.\r It allows users to manage employee records and automatically calculate payroll details such as tax and net salary.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shuklashivam001/Employee-Payroll-System-Bridgelabz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/shuklashivam001/Employee-Payroll-System-Bridgelabz/issues"
+  },
+  "homepage": "https://github.com/shuklashivam001/Employee-Payroll-System-Bridgelabz#readme",
+  "dependencies": {
+    "ejs": "^4.0.1",
+    "express": "^5.2.1"
+  }
+}
